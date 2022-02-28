@@ -50,7 +50,7 @@ IP+port就能够定位一台设备对应的服务。<strong>IP和port缺一不�
   2. 要提供HTTPS服务最好使用443端口。
   3. 要提供FTP服务最好使用21端口。（12年左右大学普遍使用的校园网是FTP服务）
   4. 一共有65535个端口。（眼下来说基本够用）
-  5. 更多默认端口服务信息可以查询<a href="https://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8#0.E5.88.B01023.E5.8F.B7.E7.AB.AF.E5.8F.A3">wiki</a>。
+  5. 更多默认端口服务信息可以查询<a href="https://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8#0.E5.88.B01023.E5.8F.B7.E7.AB.AF.E5.8F.A3" target="_blank">wiki</a>。
   6. 端口号 0~1023 是留给系统使用的，使用管理员权限后，这些端口才能被使用。
   7. 一个端口被占用了，那么你只能用另一个端口。
 
